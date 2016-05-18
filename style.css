@@ -1,0 +1,23 @@
+.main-container{
+    background: url(http://wideopentech.com/themes/wot-2013-gm/_/img/wot-masthead-dark.jpg) center bottom;
+    background-size: cover;
+    height: 70vh;
+}
+
+.navbar{
+    height: 12%;
+}
+
+.navbar > ul{
+    display: inline-block;
+}
+
+.logo{
+    height: 35%;
+}
+
+.nav-items{
+    color: white;
+    display: inline-block;
+    margin-right: 15px;
+}
