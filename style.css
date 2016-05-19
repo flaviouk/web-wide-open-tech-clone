@@ -14,6 +14,7 @@
 .navbar-default{
     background-color: transparent;
     border-color: transparent;
+    position: fixed;
 }
 
 #nav-items{
@@ -121,10 +122,81 @@
     font-size: 19px;
 }
 
-.mini-wrapper{
-    margin-bottom: 150px;
-}
-
 .box-3 img{
     width: 100%;
+}
+
+.box-3-content{
+    padding: 50px 5%;
+}
+
+.box-3 h2{
+    color: #6a787c;
+}
+
+.box-3 hr{
+    float: left;
+    width: 25%;
+}
+
+.box-3 p{
+    color: #AEBBC1;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 28.8px;
+}
+
+.companies{
+    color: #6a787c;
+    text-align: center;
+}
+
+.company-logo-grid div a img{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.bg-light{
+    background-color: #F0F0F0;
+}
+
+.contact-footer{
+    text-align: center;
+    background: #6a787c;
+    color: white;
+    padding: 50px;
+}
+
+.btn-wot{
+    border: 2px solid #bdd436;
+    border-radius: 25px;
+    background: #bdd436;
+    color: #697175
+}
+
+.footer{
+    background-color: #F0F0F0;
+}
+
+.font-main li{
+    color: #697175;
+    letter-spacing: 1px;
+}
+
+.font-main li a {
+    color: #697175;
+}
+
+.copyright{
+    display: block;
+    color: #697175;
+    margin: 1.5em 0;
+    letter-spacing: 1px;
+    font-size: 12px;
+}
+
+.privacy{
+    color: #bdd537;
+    letter-spacing: 1px;
+    font-size: 10px;
 }
