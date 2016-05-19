@@ -15,11 +15,12 @@
     background-color: transparent;
     border-color: transparent;
     position: fixed;
+    width: 100%;
 }
 
-#nav-items{
-    color: white;
-    font-weight: 400;
+.nav-items{
+    color: white !important;
+    font-weight: 400 !important;
 }
 
 .content-top-title{
@@ -199,4 +200,13 @@
     color: #bdd537;
     letter-spacing: 1px;
     font-size: 10px;
+}
+
+.scrolling{
+    background-color: white;
+    border-color: white;
+}
+
+.scrolling-text{
+    color: black !important;
 }
